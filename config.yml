@@ -409,5 +409,6 @@ books:                                    # Names of the opening books (to be us
   lilawhite: "./engines/lilawhite.bin"
   rbsmall: "./engines/rbsmall.bin"
   fast: "./engines/fast.bin"
+  anti: "./engines/anti_book.bin"
 
   
